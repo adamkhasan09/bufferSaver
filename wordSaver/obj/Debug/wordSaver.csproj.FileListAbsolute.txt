@@ -1,0 +1,7 @@
+C:\Users\ainur\source\repos\wordSaver\wordSaver\bin\Debug\wordSaver.exe.config
+C:\Users\ainur\source\repos\wordSaver\wordSaver\bin\Debug\wordSaver.exe
+C:\Users\ainur\source\repos\wordSaver\wordSaver\bin\Debug\wordSaver.pdb
+C:\Users\ainur\source\repos\wordSaver\wordSaver\obj\Debug\wordSaver.csprojAssemblyReference.cache
+C:\Users\ainur\source\repos\wordSaver\wordSaver\obj\Debug\wordSaver.csproj.CoreCompileInputs.cache
+C:\Users\ainur\source\repos\wordSaver\wordSaver\obj\Debug\wordSaver.exe
+C:\Users\ainur\source\repos\wordSaver\wordSaver\obj\Debug\wordSaver.pdb
