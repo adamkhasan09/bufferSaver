@@ -1,0 +1,13 @@
+
+
+namespace wordSaver
+
+
+/атрибут
+string
+        {
+
+        {
+
+            Console.ReadLine();
+
